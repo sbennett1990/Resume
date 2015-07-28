@@ -1,7 +1,5 @@
-Resume
-======
+# Resume
 My professional resume.
 
-Notice
-------
+### Notice
 Please see the DISCLAIMER for information on the use of my resume.
