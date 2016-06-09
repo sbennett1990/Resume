@@ -1,5 +1,12 @@
 Scott Bennett
 =============
+> Charlotte, NC
+>
+> Email: scottb@fastmail.com
+>
+> GitHub: https://github.com/sbennett1990
+>
+> LinkdIn: https://www.linkedin.com/in/scott-bennett-73b832aa
 ____________
 
 Experience
@@ -16,6 +23,8 @@ Technical Skills and Competences
 
 ####Other Computer Related Skills
 * Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)
+* Proficient at using Unix shell and PowerShell 
+* IDEs used - Visual Studio, Rational Application Developer/Eclipse
 
 Education
 ---------
