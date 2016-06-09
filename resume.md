@@ -9,8 +9,16 @@ ____________
 Professional Experience
 -----------------------
 
-[Lowe's Companies, Inc.](http://www.lowes.com/) - Software Developer  
+Software Developer - [Lowe's Companies, Inc.](http://www.lowes.com/)  
 June 2014 - Present | Charlotte, NC
+
+Assistant Technology Support Analyst - [Appalachian State University Library](http://library.appstate.edu/)  
+January 2012 - May 2014 | Boone, NC  
+* Assist system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers
+* Assist in imaging Windows and Mac desktop and laptop computers
+* Deploy desktop and laptop computers for public use
+* Assist in maintaining the integrity of all public/staff computers (hardware and software) and peripherals
+* Provide help desk support
 
 Technical Skills and Competences
 --------------------------------
