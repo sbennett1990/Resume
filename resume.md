@@ -1,27 +1,28 @@
 Scott Bennett
 =============
-> Charlotte, NC
->
-> Email: scottb@fastmail.com
->
-> GitHub: https://github.com/sbennett1990
->
-> LinkdIn: https://www.linkedin.com/in/scott-bennett-73b832aa
+> Charlotte, NC, USA  
+> Email: scottb@fastmail.com  
+> GitHub: https://github.com/sbennett1990  
+> LinkdIn: https://www.linkedin.com/in/scott-bennett-73b832aa  
 ____________
 
-Experience
-----------
+Professional Experience
+-----------------------
+
+[Lowe's Companies, Inc.](http://www.lowes.com/) - Software Developer  
+June 2014 - Present | Charlotte, NC
 
 Technical Skills and Competences
 --------------------------------
 
-####Programming Languages and Software Development Skills
+####Programming Languages and Software Development Skills  
 * C# - 1.5 years
 * Java - 4 years
 * C - 3 years (school and personal projects)
 * SQL
+* Shell scripts
 
-####Other Computer Related Skills
+####Other Computer Related Skills  
 * Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)
 * Proficient at using Unix shell and PowerShell 
 * IDEs used - Visual Studio, Rational Application Developer/Eclipse
