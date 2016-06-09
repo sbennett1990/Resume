@@ -1,13 +1,24 @@
-﻿Scott Bennett
-=========
-
+Scott Bennett
+=============
 ____________
 
 Experience
--------------
+----------
+
+Technical Skills and Competences
+--------------------------------
+
+####Programming Languages and Software Development Skills
+* C# - 1.5 years
+* Java - 4 years
+* C - 3 years (school and personal projects)
+* SQL
+
+####Other Computer Related Skills
+* Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)
 
 Education
------------
+---------
 
 2012 - 2014
 :  **Bachelor of Science, Computer Science** _Appalachian State University_ (Boone, NC) GPA: **3.09 / 4.00**
