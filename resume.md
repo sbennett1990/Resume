@@ -32,7 +32,7 @@ Technical Skills and Competences
 
 ####Other Computer Related Skills  
 * Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)
-* Proficient at using Unix shell and PowerShell 
+* Comfortable performing tasks in a Unix shell and PowerShell 
 * IDEs used - Visual Studio, Rational Application Developer/Eclipse
 
 Education
