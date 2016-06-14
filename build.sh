@@ -2,7 +2,6 @@
 
 resume="resume.html"
 index="index.html"
-#git="\"/cygdrive/c/Program Files/Git/mingw64/bin/git\""
 
 if [ -f "$resume" ]; then
     rm $resume
@@ -12,5 +11,7 @@ fi
 
 git checkout gh-pages
 
-cp ./$resume ./$index
+mv ./$resume ./$index
 
+git status
+git diff --ignore-space-at-eol
