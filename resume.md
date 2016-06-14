@@ -2,18 +2,18 @@ Scott Bennett
 =============
 > Charlotte, NC, USA  
 > Email: scottb () fastmail ! com  
-> [GitHub](https://github.com/sbennett1990): https://github.com/sbennett1990  
-> [LinkdIn](https://www.linkedin.com/in/scott-bennett-73b832aa): https://www.linkedin.com/in/scott-bennett-73b832aa  
+> [GitHub][]: https://github.com/sbennett1990  
+> [LinkdIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa  
 
-____________
+________________________
 
 Professional Experience
 -----------------------
 
-Software Developer - [Lowe's Companies, Inc.](http://www.lowes.com/)  
+Software Developer - [Lowe's Companies, Inc.][lowes]  
 June 2014 - Present | Charlotte, NC
 
-Assistant Technology Support Analyst - [Appalachian State University Library](http://library.appstate.edu/)  
+Assistant Technology Support Analyst - [Appalachian State University Library][applib]  
 January 2012 - May 2014 | Boone, NC  
 
 -   Assist system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers
@@ -44,3 +44,10 @@ Education
 
 **Associate in Science** _Blue Ridge Community College_  
 2009 - 2011 | Hendersonville, NC  
+
+
+
+[GitHub]:  https://github.com/sbennett1990/
+[LinkdIn]: https://www.linkedin.com/in/scott-bennett-73b832aa/
+[lowes]:   http://www.lowes.com/
+[applib]:  http://library.appstate.edu/
