@@ -4,6 +4,7 @@ Scott Bennett
 > Email: scottb () fastmail ! com  
 > [GitHub](https://github.com/sbennett1990): https://github.com/sbennett1990  
 > [LinkdIn](https://www.linkedin.com/in/scott-bennett-73b832aa): https://www.linkedin.com/in/scott-bennett-73b832aa  
+
 ____________
 
 Professional Experience
