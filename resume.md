@@ -10,10 +10,10 @@ ________________________
 Professional Experience
 -----------------------
 
-Software Developer - [Lowe's Companies, Inc.][lowes]  
+**Software Developer** - [Lowe's Companies, Inc.][lowes]  
 June 2014 - Present | Charlotte, NC
 
-Assistant Technology Support Analyst - [Appalachian State University Library][applib]  
+**Assistant Technology Support Analyst** - [Appalachian State University Library][applib]  
 January 2012 - May 2014 | Boone, NC  
 
 -   Assist system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers
