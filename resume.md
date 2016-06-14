@@ -28,7 +28,7 @@ Technical Skills and Competences
 * Java - 4 years
 * C - 3 years (school and personal projects)
 * SQL
-* Shell scripts
+* Shell scripting
 
 ####Other Computer Related Skills  
 * Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)
@@ -37,8 +37,8 @@ Technical Skills and Competences
 
 Education
 ---------
-**Bachelor of Science, Computer Science** _Appalachian State University_ (Boone, NC)  
-2012 - 2014 | GPA: **3.09 / 4.00**
+**Bachelor of Science, Computer Science** _Appalachian State University_  
+2012 - 2014 | Boone, NC | GPA: **3.09 / 4.00**  
 
-**Associate in Science** _Blue Ridge Community College_ (Hendersonville, NC)  
-2009 - 2011
+**Associate in Science** _Blue Ridge Community College_  
+2009 - 2011 | Hendersonville, NC  
