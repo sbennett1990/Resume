@@ -14,30 +14,31 @@ Professional Experience
 June 2014 - Present | Charlotte, NC  
 
 - Agile environment
-- Developed C# applications (plugins) for AutoCAD (deployed to ~100 user machines)
+- Developed applications (plugins) for AutoCAD (deployed to ~100 user machines) (C#)
     - Designed and implemented an updater utility for the AutoCAD plugins, which was also
       able to update itself
     - Created unit tests for above
-- Implemented enhancements to internal Java/Mainframe web applications
-    - SQL tuning, HTML corrections, JavaScript corrections
 - Lead my team in our migration to git source control
     - Configured the repositories
     - Determined branching/merging model
     - Created training sessions for the developers
+- Implemented enhancements and bug fixes to internal web applications (Java/Mainframe)
+    - SQL tuning, HTML corrections, JavaScript corrections, other code corrections
 - Instrumental in creating a continuous delivery pipeline for one of our Java/Mainframe
   applications
-    - Worked heavily with our automation team to create and test deployments to Mainframe
-      (my team was the first to automate this task)
+    - Worked heavily with our automation team to create and test deployments to mainframe
+      (my team was the first to automate deployments to mainframe)
+    - Created build scripts in Ant
 
 **Assistant Technology Support Analyst** - [Appalachian State University Library][applib]  
 January 2012 - May 2014 | Boone, NC  
 
-- Assist system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers
-- Assist in imaging Windows and Mac desktop and laptop computers
-- Deploy desktop and laptop computers for public use
-- Assist in maintaining the integrity of all public/staff computers (hardware and software) 
+- Assisted system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers
+- Responsible for imaging Windows and Mac desktop and laptop computers
+- Deployed new and replacement desktop and laptop computers for public use
+- Assisted in maintaining the integrity of all public/staff computers (hardware and software) 
   and peripherals
-- Provide help desk support
+- Provided help desk support
 
 ####Other Work Experience
 
