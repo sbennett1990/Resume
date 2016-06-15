@@ -13,10 +13,13 @@ Professional Experience
 **Software Developer** - [Lowe's Companies, Inc.][lowes]  
 June 2014 - Present | Charlotte, NC  
 
+- Agile environment
 - Developed C# applications (plugins) for AutoCAD (deployed to ~100 user machines)
     - Designed and implemented an updater utility for the AutoCAD plugins, which was also
       able to update itself
+    - Created unit tests for above
 - Implemented enhancements to internal Java/Mainframe web applications
+    - SQL tuning, HTML corrections, JavaScript corrections
 - Lead my team in our migration to git source control
     - Configured the repositories
     - Determined branching/merging model
@@ -61,6 +64,7 @@ Technical Skills and Competences
 - C# - 1.5 years
 - Java - 4 years
 - C - 3 years (school and personal projects)
+- NUnit
 - SQL
 - Shell scripting
 
