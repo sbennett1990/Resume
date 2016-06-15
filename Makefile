@@ -11,7 +11,7 @@ resume.html: $(ST)/style.css resume.md
         resume.md -o resume.html
 
 pdf: resume.pdf
-resume.pdf: resume.md
+resume.pdf: $(ST)/style.tex resume.md
 	pandoc -s --template $(ST)/style.tex \
 	-f markdown -t context \
 	-V papersize=A4 \
