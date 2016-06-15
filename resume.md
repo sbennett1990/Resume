@@ -11,7 +11,16 @@ Professional Experience
 -----------------------
 
 **Software Developer** - [Lowe's Companies, Inc.][lowes]  
-June 2014 - Present | Charlotte, NC
+June 2014 - Present | Charlotte, NC  
+
+-   Lead my team in our migration to git source control
+       -   Configured the repositories
+       -   Determined branching/merging model
+       -   Created training sessions for the developers
+-   Instrumental in creating a continuous delivery pipeline for one of our Java/Mainframe
+    applications
+       -   Worked heavily with our automation team to create and test deployments to Mainframe
+           (my team was the first to automate this task)
 
 **Assistant Technology Support Analyst** - [Appalachian State University Library][applib]  
 January 2012 - May 2014 | Boone, NC  
