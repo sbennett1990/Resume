@@ -7,7 +7,7 @@ all: html pdf docx rtf
 html: resume.html
 resume.html: $(ST)/style.css resume.md
 	pandoc -s -H $(ST)/style.css \
-        -f markdown -t html \
+        -f markdown -t html5 \
         resume.md -o resume.html
 
 pdf: resume.pdf
