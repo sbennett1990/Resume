@@ -4,14 +4,14 @@ html: resume.html
 resume.html: style_chmduquesne.css resume.md
 	pandoc -s -H style_chmduquesne.css \
         -f markdown -t html \
-        -o resume.html resume.md
+        resume.md -o resume.html
 
 pdf: resume.pdf
 resume.pdf: resume.md
 	pandoc -s --template style_chmduquesne.tex \
 	-f markdown -t context \
 	-V papersize=A4 \
-	-o resume.tex resume.md; \
+	resume.md -o resume.tex; \
 	context resume.tex
 
 docx: resume.docx
