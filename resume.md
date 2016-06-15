@@ -14,8 +14,8 @@ Professional Experience
 June 2014 - Present | Charlotte, NC  
 
 - Developed applications (plugins) for AutoCAD (deployed to ~100 user machines)
-    - Designed and implemented an updater utility for AutoCAD plugins, which was also able to
-      update itself
+    - Designed and implemented an updater utility for AutoCAD plugins, which was also 
+      able to update itself
 - Implemented enhancements to internal Java/Mainframe applications
 - Lead my team in our migration to git source control
     - Configured the repositories
@@ -32,7 +32,8 @@ January 2012 - May 2014 | Boone, NC
 - Assist system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers
 - Assist in imaging Windows and Mac desktop and laptop computers
 - Deploy desktop and laptop computers for public use
-- Assist in maintaining the integrity of all public/staff computers (hardware and software) and peripherals
+- Assist in maintaining the integrity of all public/staff computers (hardware and software) 
+  and peripherals
 - Provide help desk support
 
 ####Other Work Experience
