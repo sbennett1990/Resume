@@ -31,6 +31,24 @@ January 2012 - May 2014 | Boone, NC
 - Assist in maintaining the integrity of all public/staff computers (hardware and software) and peripherals
 - Provide help desk support
 
+####Other Work Experience
+
+*Chick-fil-A*  
+April 2010 - December 2012 | Hendersonville, NC  
+
+- Positions - front counter/drive-through cashier; kitchen
+- Developed communication skills and team work
+
+*Federal Work-Study* - [Blue Ridge Community College Library][brcclib]  
+October 2009 - May 2011 | Hendersonville, NC  
+
+- Circulation desk, book shelving, basic computer support
+
+*Math Tutor* - [Blue Ridge Community College][brcc]  
+September 2009 - December 2009 | Hendersonville, NC  
+
+- Tutored students in introductory college math courses
+
 Technical Skills and Competences
 --------------------------------
 
@@ -60,3 +78,5 @@ Education
 [LinkdIn]: https://www.linkedin.com/in/scott-bennett-73b832aa/
 [lowes]:   http://www.lowes.com/
 [applib]:  http://library.appstate.edu/
+[brcc]:    http://www.blueridge.edu/
+[brcclib]: http://www.blueridge.edu/campus-life/library
