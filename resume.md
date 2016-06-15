@@ -84,6 +84,11 @@ Education
 
 ________________________
 
+This document is available in various formats:  
+
+- HTML: [http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)   
+- WORD: [http://sbennett1990.github.io/Resume/resume.docx](http://sbennett1990.github.io/Resume/resume.docx)  
+
 #####Source for this document is [here][resume]
 
 
