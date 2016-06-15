@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#
+# Prepare workspace for GitHub pages commit
+#
+
 resume="resume.html"
 index="index.html"
 
