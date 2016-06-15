@@ -13,10 +13,10 @@ Professional Experience
 **Software Developer** - [Lowe's Companies, Inc.][lowes]  
 June 2014 - Present | Charlotte, NC  
 
-- Developed applications (plugins) for AutoCAD (deployed to ~100 user machines)
-    - Designed and implemented an updater utility for AutoCAD plugins, which was also 
+- Developed C# applications (plugins) for AutoCAD (deployed to ~100 user machines)
+    - Designed and implemented an updater utility for the AutoCAD plugins, which was also
       able to update itself
-- Implemented enhancements to internal Java/Mainframe applications
+- Implemented enhancements to internal Java/Mainframe web applications
 - Lead my team in our migration to git source control
     - Configured the repositories
     - Determined branching/merging model
