@@ -1,14 +1,18 @@
+# Makefile for different types of resumes
+
+ST = ./style
+
 all: html pdf docx rtf
 
 html: resume.html
-resume.html: style.css resume.md
-	pandoc -s -H style.css \
+resume.html: $(ST)/style.css resume.md
+	pandoc -s -H $(ST)/style.css \
         -f markdown -t html \
         resume.md -o resume.html
 
 pdf: resume.pdf
 resume.pdf: resume.md
-	pandoc -s --template style.tex \
+	pandoc -s --template $(ST)/style.tex \
 	-f markdown -t context \
 	-V papersize=A4 \
 	resume.md -o resume.tex; \
