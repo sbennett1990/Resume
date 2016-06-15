@@ -2,14 +2,14 @@ all: html pdf docx rtf
 
 html: resume.html
 resume.html: style_chmduquesne.css resume.md
-	pandoc --standalone -H style_chmduquesne.css \
-        --from markdown --to html \
+	pandoc -s -H style_chmduquesne.css \
+        -f markdown -t html \
         -o resume.html resume.md
 
 pdf: resume.pdf
 resume.pdf: resume.md
-	pandoc --standalone --template style_chmduquesne.tex \
-	--from markdown --to context \
+	pandoc -s --template style_chmduquesne.tex \
+	-f markdown -t context \
 	-V papersize=A4 \
 	-o resume.tex resume.md; \
 	context resume.tex
