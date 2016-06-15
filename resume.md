@@ -81,6 +81,9 @@ Education
 **Associate in Science** _Blue Ridge Community College_  
 2009 - 2011 | Hendersonville, NC  
 
+________________________
+
+#####Source for this document is [here][resume]
 
 
 [GitHub]:  https://github.com/sbennett1990/
@@ -89,3 +92,4 @@ Education
 [applib]:  http://library.appstate.edu/
 [brcc]:    http://www.blueridge.edu/
 [brcclib]: http://www.blueridge.edu/campus-life/library
+[resume]:  https://github.com/sbennett1990/Resume
