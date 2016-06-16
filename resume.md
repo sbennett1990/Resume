@@ -3,7 +3,7 @@ Scott Bennett
 > Charlotte, NC, USA  
 > Email: scottb () fastmail ! com  
 > [GitHub][]: https://github.com/sbennett1990  
-> [LinkdIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa  
+> [LinkedIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa  
 
 ________________________
 
@@ -93,7 +93,7 @@ This document is available in various formats:
 
 
 [GitHub]:  https://github.com/sbennett1990/
-[LinkdIn]: https://www.linkedin.com/in/scott-bennett-73b832aa/
+[LinkedIn]: https://www.linkedin.com/in/scott-bennett-73b832aa/
 [lowes]:   http://www.lowes.com/
 [applib]:  http://library.appstate.edu/
 [brcc]:    http://www.blueridge.edu/
