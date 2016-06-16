@@ -3,7 +3,7 @@ Scott Bennett
 > Charlotte, NC, USA  
 > Email: scottb () fastmail ! com  
 > [GitHub][]: https://github.com/sbennett1990  
-> [LinkdIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa  
+> [LinkedIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa  
 
 ________________________
 
@@ -86,14 +86,14 @@ ________________________
 
 This document is available in various formats:  
 
-- HTML: [http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)   
+- HTML: [http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)  
 - WORD: [http://sbennett1990.github.io/Resume/resume.docx](http://sbennett1990.github.io/Resume/resume.docx)  
 
 #####Source for this document is [here][resume]
 
 
 [GitHub]:  https://github.com/sbennett1990/
-[LinkdIn]: https://www.linkedin.com/in/scott-bennett-73b832aa/
+[LinkedIn]: https://www.linkedin.com/in/scott-bennett-73b832aa/
 [lowes]:   http://www.lowes.com/
 [applib]:  http://library.appstate.edu/
 [brcc]:    http://www.blueridge.edu/
