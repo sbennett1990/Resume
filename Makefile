@@ -2,7 +2,7 @@
 
 ST = ./style
 
-all: html docx
+all: html docx txt
 
 html: resume.html
 resume.html: $(ST)/style.css resume.md
@@ -26,11 +26,17 @@ rtf: resume.rtf
 resume.rtf: resume.md
 	pandoc -s -S resume.md -o resume.rtf
 
+txt: resume.txt
+resume.txt: resume.md
+	pandoc -f markdown -t plain resume.md \
+        -o resume.txt
+
 clean:
 	rm resume.html
+	rm resume.docx
+	rm resume.txt
+	rm resume.pdf
+	rm resume.rtf
 	rm resume.tex
 	rm resume.tuc
 	rm resume.log
-	rm resume.pdf
-	rm resume.docx
-	rm resume.rtf
