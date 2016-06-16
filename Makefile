@@ -35,8 +35,8 @@ clean:
 	rm resume.html
 	rm resume.docx
 	rm resume.txt
-	rm resume.pdf
 	rm resume.rtf
 	rm resume.tex
 	rm resume.tuc
 	rm resume.log
+
