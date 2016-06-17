@@ -2,7 +2,7 @@
 
 ST = ./style
 
-all: html docx txt
+all: txt html docx pdf
 
 html: resume.html
 resume.html: $(ST)/style.css resume.md

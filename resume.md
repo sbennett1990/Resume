@@ -40,7 +40,7 @@ January 2012 - May 2014 | Boone, NC
   and peripherals
 - Provided help desk support
 
-####Other Work Experience
+**Other Work Experience**
 
 *Chick-fil-A*  
 April 2010 - December 2012 | Hendersonville, NC  
@@ -61,7 +61,8 @@ September 2009 - December 2009 | Hendersonville, NC
 Technical Skills and Competences
 --------------------------------
 
-####Programming Languages and Software Development Skills  
+**Programming Languages and Software Development Skills**  
+
 - C# - 1.5 years
 - Java - 4 years
 - C - 3 years (school and personal projects)
@@ -69,7 +70,8 @@ Technical Skills and Competences
 - SQL
 - Shell scripting
 
-####Other Computer Related Skills  
+**Other Computer Related Skills**  
+
 - Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)
 - Comfortable performing tasks in a Unix shell and PowerShell
 - IDEs used - Visual Studio, Rational Application Developer/Eclipse
@@ -87,9 +89,10 @@ ________________________
 This document is available in various formats:  
 
 - HTML: [http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)  
+- PDF: [http://sbennett1990.github.io/Resume/resume.pdf](http://sbennett1990.github.io/Resume/resume.pdf)  
 - WORD: [http://sbennett1990.github.io/Resume/resume.docx](http://sbennett1990.github.io/Resume/resume.docx)  
 
-#####Source for this document is [here][resume]
+**Source for this document is [here][resume]**
 
 
 [GitHub]:  https://github.com/sbennett1990/
