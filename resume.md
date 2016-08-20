@@ -22,13 +22,16 @@ June 2014 - Present | Charlotte, NC
     - Configured the repositories
     - Determined branching/merging model
     - Created training sessions for the developers
-- Implemented enhancements and bug fixes to internal web applications (Java/Mainframe)
+- Implemented enhancements and bug fixes to internal web applications (Java/WebSphere)
     - SQL tuning, HTML corrections, JavaScript corrections, other code corrections
-- Instrumental in creating a continuous delivery pipeline for one of our Java/Mainframe
+- Instrumental in creating a continuous delivery pipeline for one of our Java/WebSphere
   applications
     - Worked heavily with our automation team to create and test deployments to mainframe
-      (my team was the first to automate deployments to mainframe)
+      (my team was the first to automate deployments to our mainframe environment)
     - Created build scripts in Ant
+    - Helped convert two Java applications into Maven projects to better facilitate
+      builds and dependency management
+    - Created, configured, and maintained all of the Jenkins build jobs for our team
 
 **Assistant Technology Support Analyst** - [Appalachian State University Library][applib]  
 January 2012 - May 2014 | Boone, NC  
