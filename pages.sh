@@ -1,40 +1,38 @@
 #!/bin/sh
 
 #
-# Prepare workspace for GitHub pages commit
+# Prepare the GitHub Pages
 #
 
-resume="resume.html"
-index="index.html"
-docx="resume.docx"
-tempdocx="temp.docx"
-pdf="resume.pdf"
-temppdf="temp.pdf"
+set -e
 
-if [ -f "$resume" ]; then
-    rm $resume
+resume_html	= "resume.html"
+index_html	= "index.html"
+docx		= "resume.docx"
+pdf		= "resume.pdf"
+
+if [ -f "$resume_html" ]; then
+    rm $resume_html
 fi
 
-if [ -f "$tempdocx" ]; then
+if [ -f "$index_html" ]; then
+    rm $index_html
+fi
+
+if [ -f "$docx" ]; then
     rm $docx
-    rm $tempdocx
 fi
 
-if [ -f "$temppdf" ]; then
+if [ -f "$pdf" ]; then
     rm $pdf
-    rm $temppdf
 fi
 
 `/usr/bin/make -s` || (echo "make failed $?"; exit 1)
 
-mv ./$docx ./$tempdocx
-mv ./$pdf ./$temppdf
-
-git checkout gh-pages
-
-mv ./$resume ./$index
-mv ./$tempdocx ./$docx
-mv ./$temppdf ./$pdf
+mv ./$resume_html ./$index_html
+mv ./$index_html ./docs/$index_html
+mv ./$docx ./docs/$docx
+mv ./$pdf ./docs/$pdf
 
 git status
-git diff --ignore-space-at-eol
+#git diff --ignore-space-at-eol
