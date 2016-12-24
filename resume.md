@@ -71,6 +71,7 @@ Technical Skills and Competences
 - C - 3 years (school and personal projects)
 - NUnit
 - SQL
+- PowerShell
 - Shell scripting
 
 **Other Computer Related Skills**  
