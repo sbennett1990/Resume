@@ -6,7 +6,7 @@ My professional resume.
 - [PDF](http://sbennett1990.github.io/Resume/resume.pdf)
 
 ## DISCLAIMER
-Copyright (c) 2015-2016, Scott Bennett
+Copyright (c) 2015-2016, Scott Bennett  
 All rights reserved.
 
 I am the only legal owner of my own resume. The Digital Millennium Copyright
