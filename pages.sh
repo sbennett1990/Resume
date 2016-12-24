@@ -1,5 +1,4 @@
 #!/bin/sh
-
 #
 # Prepare the GitHub Pages
 #
