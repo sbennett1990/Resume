@@ -80,6 +80,11 @@ Technical Skills and Competences
 - Comfortable performing tasks in a Unix shell and PowerShell
 - IDEs used - Visual Studio, Rational Application Developer/Eclipse
 
+Honors and Awards
+-----------------
+**[Lowe's][lowes] IT Top Contributor Award**  
+2016
+
 Education
 ---------
 **Bachelor of Science, Computer Science** _Appalachian State University_  
