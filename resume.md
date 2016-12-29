@@ -82,7 +82,7 @@ Technical Skills and Competences
 
 Honors and Awards
 -----------------
-**[Lowe's][lowes] IT Top Individual Contributor Award**  
+**[Lowe's IT][lowes] Top Individual Contributor Award**  
 2016
 
 Education
