@@ -100,15 +100,15 @@ This document is available in various formats:
 <table>
 <tr>
   <td>HTML:</td>
-  <td>[http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)</td>
+  <td>http://sbennett1990.github.io/Resume/</td>
 </tr>
 <tr>
   <td>PDF:</td>
-  <td>[http://sbennett1990.github.io/Resume/resume.pdf](http://sbennett1990.github.io/Resume/resume.pdf)</td>
+  <td>http://sbennett1990.github.io/Resume/resume.pdf</td>
 </tr>
 <tr>
   <td>WORD:</td>
-  <td>[http://sbennett1990.github.io/Resume/resume.docx](http://sbennett1990.github.io/Resume/resume.docx)</td>
+  <td>http://sbennett1990.github.io/Resume/resume.docx</td>
 </tr>
 </table>
 
