@@ -1,174 +1,102 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <!--[if lt IE 9]>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
-  <style type="text/css">
-  /*
-   * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
-   *
-   * CSS for making a resume with pandoc. Inspired by moderncv.
-   *
-   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
-   * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-   */
-  
-  /* Whole document */
-  body {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      width: 800px;
-      margin: auto;
-      background: #FFFFFF;
-      padding: 10px 10px 10px 10px;
-  }
-  
-  /* Title of the resume */
-  h1 {
-      font-size: 55px;
-      color: #757575;
-      text-align:center;
-      margin-bottom:15px;
-  }
-  h1:hover {
-      background-color: #757575;
-      color: #FFFFFF;
-      text-shadow: 1px 1px 1px #333;
-  }
-  
-  /* Titles of categories */
-  h2 {
-      /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-      color: #397249;
-  }
-  /* There is a bar just before each category */
-  h2:before {
-      content: "";
-      display: inline-block;
-      margin-right:1%;
-      width: 16%;
-      height: 10px;
-      /* This is called "rulecolor" in the ConTeXt stylesheet. */
-      background-color: #9CB770;
-  }
-  h2:hover {
-      background-color: #397249;
-      color: #FFFFFF;
-      text-shadow: 1px 1px 1px #333;
-  }
-  
-  /* Definitions */
-  dt {
-      float: left;
-      clear: left;
-      width: 17%;
-      /*font-weight: bold;*/
-  }
-  dd {
-      margin-left: 17%;
-  }
-  p {
-      margin-top:0;
-      margin-bottom:7px;
-  }
-  
-  /* Blockquotes */
-  blockquote {
-      text-align: center
-  }
-  
-  /* Links */
-  a {
-      text-decoration: none;
-      color: #397249;
-  }
-  a:hover, a:active {
-      background-color: #397249;
-      color: #FFFFFF;
-      text-decoration: none;
-      text-shadow: 1px 1px 1px #333;
-  }
-  
-  /* Horizontal separators */
-  hr {
-      color: #A6A6A6;
-  }
-  
-  table {
-      width: 100%;
-  }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Untitled article</title>
+<link rel="stylesheet" type="text/css" href="style/style.css">
 </head>
 <body>
-<h1 id="scott-bennett">Scott Bennett</h1>
+<h1>Scott Bennett</h1>
+
 <blockquote>
-<p>Charlotte, NC, USA<br />
-Email: scottb () fastmail ! com<br />
-<a href="https://github.com/sbennett1990/">GitHub</a>: https://github.com/sbennett1990<br />
-<a href="https://www.linkedin.com/in/scott-bennett-73b832aa/">LinkedIn</a>: https://www.linkedin.com/in/scott-bennett-73b832aa</p>
+<p>Charlotte, NC, USA<br/>
+Email: scottb () fastmail ! com<br/>
+<a href="https://github.com/sbennett1990/">GitHub</a>: <a href="https://github.com/sbennett1990">https://github.com/sbennett1990</a><br/>
+<a href="https://www.linkedin.com/in/scott-bennett-73b832aa/">LinkedIn</a>: <a href="https://www.linkedin.com/in/scott-bennett-73b832aa">https://www.linkedin.com/in/scott-bennett-73b832aa</a>  </p>
 </blockquote>
-<hr />
-<h2 id="professional-experience">Professional Experience</h2>
-<p><strong>Software Developer</strong> - <a href="http://www.lowes.com/">Lowe's Companies, Inc.</a><br />
-June 2014 - Present | Charlotte, NC</p>
+
+<hr/>
+
+<h2>Professional Experience</h2>
+
+<p><strong>Software Developer</strong> - <a href="http://www.lowes.com/">Lowe&#8217;s Companies, Inc.</a><br/>
+June 2014 - Present | Charlotte, NC  </p>
+
 <ul>
 <li>Agile environment</li>
 <li>Developed applications (plugins) for AutoCAD (deployed to ~100 user machines) (C#)
+
 <ul>
-<li>Designed and implemented an updater utility for the AutoCAD plugins, which was also able to update itself</li>
+<li>Designed and implemented an updater utility for the AutoCAD plugins, which was also
+able to update itself</li>
 <li>Created unit tests for above</li>
 </ul></li>
 <li>Lead my team in our migration to git source control
+
 <ul>
 <li>Configured the repositories</li>
 <li>Determined branching/merging model</li>
 <li>Created training sessions for the developers</li>
 </ul></li>
 <li>Implemented enhancements and bug fixes to internal web applications (Java/WebSphere)
+
 <ul>
 <li>SQL tuning, HTML corrections, JavaScript corrections, other code corrections</li>
 </ul></li>
-<li>Instrumental in creating a continuous delivery pipeline for one of our Java/WebSphere applications
+<li>Instrumental in creating a continuous delivery pipeline for one of our Java/WebSphere
+applications
+
 <ul>
-<li>Worked heavily with our automation team to create and test deployments to mainframe (my team was the first to automate deployments to our mainframe environment)</li>
+<li>Worked heavily with our automation team to create and test deployments to mainframe
+(my team was the first to automate deployments to our mainframe environment)</li>
 <li>Created build scripts in Ant</li>
-<li>Helped convert two Java applications into Maven projects to better facilitate builds and dependency management</li>
+<li>Helped convert two Java applications into Maven projects to better facilitate
+builds and dependency management</li>
 <li>Created, configured, and maintained all of the Jenkins build jobs for our team</li>
 </ul></li>
 </ul>
-<p><strong>Assistant Technology Support Analyst</strong> - <a href="http://library.appstate.edu/">Appalachian State University Library</a><br />
-January 2012 - May 2014 | Boone, NC</p>
+
+<p><strong>Assistant Technology Support Analyst</strong> - <a href="http://library.appstate.edu/">Appalachian State University Library</a><br/>
+January 2012 - May 2014 | Boone, NC  </p>
+
 <ul>
 <li>Assisted system administrator with the upkeep, maintenance, and upgrading of ~10 Linux servers</li>
 <li>Responsible for imaging Windows and Mac desktop and laptop computers</li>
 <li>Deployed new and replacement desktop and laptop computers for public use</li>
-<li>Assisted in maintaining the integrity of all public/staff computers (hardware and software) and peripherals</li>
+<li>Assisted in maintaining the integrity of all public/staff computers (hardware and software) 
+and peripherals</li>
 <li>Provided help desk support</li>
 </ul>
+
 <p><strong>Other Work Experience</strong></p>
-<p><em>Chick-fil-A</em><br />
-April 2010 - December 2012 | Hendersonville, NC</p>
+
+<p><em>Chick-fil-A</em><br/>
+April 2010 - December 2012 | Hendersonville, NC  </p>
+
 <ul>
 <li>Positions - front counter/drive-through cashier; kitchen</li>
 <li>Developed communication skills and team work</li>
 </ul>
-<p><em>Federal Work-Study</em> - <a href="http://www.blueridge.edu/campus-life/library">Blue Ridge Community College Library</a><br />
-October 2009 - May 2011 | Hendersonville, NC</p>
+
+<p><em>Federal Work-Study</em> - <a href="http://www.blueridge.edu/campus-life/library">Blue Ridge Community College Library</a><br/>
+October 2009 - May 2011 | Hendersonville, NC  </p>
+
 <ul>
 <li>Circulation desk, book shelving, basic computer support</li>
 </ul>
-<p><em>Math Tutor</em> - <a href="http://www.blueridge.edu/">Blue Ridge Community College</a><br />
-September 2009 - December 2009 | Hendersonville, NC</p>
+
+<p><em>Math Tutor</em> - <a href="http://www.blueridge.edu/">Blue Ridge Community College</a><br/>
+September 2009 - December 2009 | Hendersonville, NC  </p>
+
 <ul>
 <li>Tutored students in introductory college math courses</li>
 </ul>
-<h2 id="technical-skills-and-competences">Technical Skills and Competences</h2>
-<p><strong>Programming Languages and Software Development Skills</strong></p>
+
+<h2>Technical Skills and Competences</h2>
+
+<p><strong>Programming Languages and Software Development Skills</strong>  </p>
+
 <ul>
 <li>C# - 1.5 years</li>
 <li>Java - 4 years</li>
@@ -178,29 +106,38 @@ September 2009 - December 2009 | Hendersonville, NC</p>
 <li>PowerShell</li>
 <li>Shell scripting</li>
 </ul>
-<p><strong>Other Computer Related Skills</strong></p>
+
+<p><strong>Other Computer Related Skills</strong>  </p>
+
 <ul>
 <li>Administration of Unix-like OS - Linux, FreeBSD, OpenBSD (personal projects)</li>
 <li>Comfortable performing tasks in a Unix shell and PowerShell</li>
 <li>IDEs used - Visual Studio, Rational Application Developer/Eclipse</li>
 </ul>
-<h2 id="honors-and-awards">Honors and Awards</h2>
-<p><strong><a href="http://www.lowes.com/">Lowe's IT</a> Top Individual Contributor Award</strong><br />
+
+<h2>Honors and Awards</h2>
+
+<p><strong><a href="http://www.lowes.com/">Lowe&#8217;s IT</a> Top Individual Contributor Award</strong><br/>
 2016</p>
-<h2 id="education">Education</h2>
-<p><strong>Bachelor of Science, Computer Science</strong> <em>Appalachian State University</em><br />
-2012 - 2014 | Boone, NC | GPA: <strong>3.09 / 4.00</strong></p>
-<p><strong>Associate in Science</strong> <em>Blue Ridge Community College</em><br />
-2009 - 2011 | Hendersonville, NC</p>
-<hr />
-<p>This document is available in various formats:</p>
+
+<h2>Education</h2>
+
+<p><strong>Bachelor of Science, Computer Science</strong> <em>Appalachian State University</em><br/>
+2012 - 2014 | Boone, NC | GPA: <strong>3.09 / 4.00</strong>  </p>
+
+<p><strong>Associate in Science</strong> <em>Blue Ridge Community College</em><br/>
+2009 - 2011 | Hendersonville, NC  </p>
+
+<hr/>
+
+<p>This document is available in various formats:  </p>
+
 <ul>
-<li>HTML: <a href="http://sbennett1990.github.io/Resume/" class="uri">http://sbennett1990.github.io/Resume/</a><br />
-</li>
-<li>PDF: <a href="http://sbennett1990.github.io/Resume/resume.pdf" class="uri">http://sbennett1990.github.io/Resume/resume.pdf</a><br />
-</li>
-<li>WORD: <a href="http://sbennett1990.github.io/Resume/resume.docx" class="uri">http://sbennett1990.github.io/Resume/resume.docx</a></li>
+<li>HTML: <a href="http://sbennett1990.github.io/Resume/">http://sbennett1990.github.io/Resume/</a><br/></li>
+<li>PDF: <a href="http://sbennett1990.github.io/Resume/resume.pdf">http://sbennett1990.github.io/Resume/resume.pdf</a><br/></li>
+<li>WORD: <a href="http://sbennett1990.github.io/Resume/resume.docx">http://sbennett1990.github.io/Resume/resume.docx</a><br/></li>
 </ul>
+
 <p><strong>Source for this document is <a href="https://github.com/sbennett1990/Resume">here</a></strong></p>
 </body>
 </html>
