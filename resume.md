@@ -97,9 +97,21 @@ ________________________
 
 This document is available in various formats:  
 
-- HTML: [http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)  
-- PDF: [http://sbennett1990.github.io/Resume/resume.pdf](http://sbennett1990.github.io/Resume/resume.pdf)  
-- WORD: [http://sbennett1990.github.io/Resume/resume.docx](http://sbennett1990.github.io/Resume/resume.docx)  
+<table>
+<tr>
+  <td>HTML:</td>
+  <td>[http://sbennett1990.github.io/Resume/](http://sbennett1990.github.io/Resume/)</td>
+</tr>
+<tr>
+  <td>PDF:</td>
+  <td>[http://sbennett1990.github.io/Resume/resume.pdf](http://sbennett1990.github.io/Resume/resume.pdf)</td>
+</tr>
+<tr>
+  <td>WORD:</td>
+  <td>[http://sbennett1990.github.io/Resume/resume.docx](http://sbennett1990.github.io/Resume/resume.docx)</td>
+</tr>
+</table>
+
 
 **Source for this document is [here][resume]**
 
