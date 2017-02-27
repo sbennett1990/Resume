@@ -6,7 +6,7 @@ all: txt html docx pdf
 
 html: resume.html
 resume.html: $(ST)/style.css resume.md
-	lowdown -s -o resume.html resume.md
+	lowdown -s -c "style/style.css" -o resume.html resume.md
 
 pdf: resume.pdf
 resume.pdf: $(ST)/style.tex resume.md
