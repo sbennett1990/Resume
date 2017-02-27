@@ -97,20 +97,11 @@ ________________________
 
 This document is available in various formats:  
 
-<table>
-<tr>
-  <td>HTML:</td>
-  <td>http://sbennett1990.github.io/Resume/</td>  
-</tr>
-<tr>
-  <td>PDF:</td>
-  <td>http://sbennett1990.github.io/Resume/resume.pdf</td>  
-</tr>
-<tr>
-  <td>WORD:</td>
-  <td>http://sbennett1990.github.io/Resume/resume.docx</td>  
-</tr>
-</table>
+|      |      |
+-------|-------
+HTML:  | http://sbennett1990.github.io/Resume/
+PDF:   | http://sbennett1990.github.io/Resume/resume.pdf
+WORD:  | http://sbennett1990.github.io/Resume/resume.docx
 
 
 **Source for this document is [here][resume]**
