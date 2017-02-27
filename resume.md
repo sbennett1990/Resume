@@ -97,14 +97,13 @@ ________________________
 
 This document is available in various formats:  
 
-|      |      |
--------|-------
-HTML:  | http://sbennett1990.github.io/Resume/
-PDF:   | http://sbennett1990.github.io/Resume/resume.pdf
-WORD:  | http://sbennett1990.github.io/Resume/resume.docx
+|       |       |
+--------|--------
+HTML:   | http://sbennett1990.github.io/Resume/
+PDF:    | http://sbennett1990.github.io/Resume/resume.pdf
+Word:   | http://sbennett1990.github.io/Resume/resume.docx
+Source: | https://github.com/sbennett1990/Resume
 
-
-**Source for this document is [here][resume]**
 
 
 [GitHub]:  https://github.com/sbennett1990/
@@ -113,4 +112,3 @@ WORD:  | http://sbennett1990.github.io/Resume/resume.docx
 [applib]:  http://library.appstate.edu/
 [brcc]:    http://www.blueridge.edu/
 [brcclib]: http://www.blueridge.edu/campus-life/library
-[resume]:  https://github.com/sbennett1990/Resume
