@@ -6,7 +6,10 @@ all: txt html docx pdf
 
 html: resume.html
 resume.html: $(ST)/style.css resume.md
-	lowdown -s -c "style/style.css" -o $@ resume.md
+	lowdown -s -o $@ resume.md
+	sed -i.orig '/<title>/c <title>Scott Bennett</title>' $@
+	sed -i.orig '/<title>/a \\\<link rel="stylesheet" \
+type="text/css" href="style/style.css"\>' $@
 
 pdf: resume.pdf
 resume.pdf: $(ST)/style.tex resume.md
@@ -28,6 +31,11 @@ txt: resume.txt
 resume.txt: resume.md
 	pandoc -f markdown -t plain resume.md \
         -o $@
+
+site: html docx #pdf
+	mv resume.html ./docs/index.html
+#mv resume.pdf  ./docs
+	mv resume.docx ./docs
 
 clean:
 	rm -f resume.html
