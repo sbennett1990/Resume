@@ -7,9 +7,9 @@ all: txt html docx pdf
 html: resume.html
 resume.html: $(ST)/style.css resume.md
 	lowdown -s -o $@ resume.md
-	sed -i.orig '/<title>/c <title>Scott Bennett</title>' $@
-	sed -i.orig '/<title>/a \\\<link rel="stylesheet" \
-type="text/css" href="style/style.css"\>' $@
+#	sed -i.orig '/<title>/c <title>Scott Bennett</title>' $@
+#	sed -i.orig '/<title>/a \\\<link rel="stylesheet" \
+#type="text/css" href="style/style.css"\>' $@
 
 pdf: resume.pdf
 resume.pdf: $(ST)/style.tex resume.md
