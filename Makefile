@@ -18,23 +18,22 @@ resume.pdf: $(ST)/style.tex resume.md
 
 docx: resume.docx
 resume.docx: resume.md
-	pandoc -s -S resume.md -o resume.docx
+	pandoc -s -S resume.md -o $@
 
 rtf: resume.rtf
 resume.rtf: resume.md
-	pandoc -s -S resume.md -o resume.rtf
+	pandoc -s -S resume.md -o $@
 
 txt: resume.txt
 resume.txt: resume.md
 	pandoc -f markdown -t plain resume.md \
-        -o resume.txt
+        -o $@
 
 clean:
-	rm resume.html
-	rm resume.docx
-	rm resume.txt
-	rm resume.rtf
-	rm resume.tex
-	rm resume.tuc
-	rm resume.log
-
+	rm -f resume.html
+	rm -f resume.docx
+	rm -f resume.txt
+	rm -f resume.rtf
+	rm -f resume.tex
+	rm -f resume.tuc
+	rm -f resume.log
