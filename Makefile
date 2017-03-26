@@ -7,8 +7,8 @@ all: txt html docx pdf
 html: resume.html
 resume.html: $(ST)/style.css resume.md
 	lowdown -s -o $@ resume.md
-#	sed -i.orig '/<title>/c <title>Scott Bennett</title>' $@
-#	sed -i.orig '/<title>/a \\\<link rel="stylesheet" \
+	sed -i 's|<title>Untitled article</title>|<title>Scott Bennett</title>|' $@
+#	sed -i '/<title>/a \\\<link rel="stylesheet" \
 #type="text/css" href="style/style.css"\>' $@
 
 pdf: resume.pdf
@@ -34,7 +34,7 @@ resume.txt: resume.md
 
 site: html docx #pdf
 	mv resume.html ./docs/index.html
-#mv resume.pdf  ./docs
+#	mv resume.pdf  ./docs
 	mv resume.docx ./docs
 
 clean:
