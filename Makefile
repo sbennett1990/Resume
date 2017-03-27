@@ -10,12 +10,12 @@ resume.html: $(ST)/style.css resume.md
 	sed -i -f html.sed $@
 
 pdf: resume.pdf
-resume.pdf: $(ST)/style.tex resume.md
-	pandoc -s --template $(ST)/style.tex \
-	-f markdown -t context \
-	-V papersize=A4 \
-	resume.md -o resume.tex; \
-	context resume.tex
+resume.pdf: html
+	sed -f pdf.sed resume.html | wkhtmltopdf \
+        --no-pdf-compression \
+        --margin-top 15 --margin-bottom 0 \
+        --margin-left 15 --margin-right 15 \
+        - $@
 
 docx: resume.docx
 resume.docx: resume.md
@@ -30,9 +30,9 @@ resume.txt: resume.md
 	pandoc -f markdown -t plain resume.md \
         -o $@
 
-site: html docx #pdf
+site: html docx pdf
 	mv resume.html ./docs/index.html
-#	mv resume.pdf  ./docs
+	mv resume.pdf  ./docs
 	mv resume.docx ./docs
 
 clean:
