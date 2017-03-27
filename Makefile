@@ -1,8 +1,8 @@
-# Makefile for different types of resumes
+# Makefile for generating different formats of my resume
 
 ST =	./style
 
-all: txt html docx pdf
+all: html pdf docx txt
 
 html: resume.html
 resume.html: $(ST)/style.css resume.md
@@ -30,8 +30,8 @@ resume.txt: resume.md
 	pandoc -f markdown -t plain resume.md \
         -o $@
 
-site: html docx pdf
-	cp style/style.css ./docs/style/style.css
+site: html pdf docx
+	cp $(ST)/style.css ./docs/style/style.css
 	mv resume.html ./docs/index.html
 	mv resume.pdf  ./docs
 	mv resume.docx ./docs
