@@ -31,6 +31,7 @@ resume.txt: resume.md
         -o $@
 
 site: html docx pdf
+	cp style/style.css ./docs/style/style.css
 	mv resume.html ./docs/index.html
 	mv resume.pdf  ./docs
 	mv resume.docx ./docs
