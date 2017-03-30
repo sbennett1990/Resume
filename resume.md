@@ -50,25 +50,20 @@ January 2012 - May 2014 | Boone, NC
 *Chick-fil-A*  
 April 2010 - December 2012 | Hendersonville, NC  
 
-- Positions - front counter/drive-through cashier; kitchen
 - Developed communication skills and team work
+- Front counter and drive-through cashier; kitchen
 
 *Federal Work-Study* - [Blue Ridge Community College Library][brcclib]  
 October 2009 - May 2011 | Hendersonville, NC  
 
 - Circulation desk, book shelving, basic computer support
 
-*Math Tutor* - [Blue Ridge Community College][brcc]  
-September 2009 - December 2009 | Hendersonville, NC  
-
-- Tutored students in introductory college math courses
-
 Technical Skills and Competences
 --------------------------------
 
 **Programming Languages and Software Development Skills**  
 
-- C# - 1.5 years
+- C# - 2 years
 - Java - 4 years
 - C - 3 years (school and personal projects)
 - NUnit
