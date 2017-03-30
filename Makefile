@@ -30,10 +30,10 @@ resume.txt: resume.md
 	pandoc -f markdown -t plain resume.md \
         -o $@
 
-site: html pdf docx
+site: html docx
 	cp $(ST)/style.css ./docs/style/style.css
 	mv resume.html ./docs/index.html
-	mv resume.pdf  ./docs
+#	mv resume.pdf  ./docs
 	mv resume.docx ./docs
 
 clean:
