@@ -94,3 +94,8 @@ table {
 code {
     white-space: pre;
 }
+
+/* Copyright notice */
+p.copy {
+    text-align: center;
+}

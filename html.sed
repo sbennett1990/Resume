@@ -7,8 +7,11 @@
 <title>Scott Bennett</title>
 # add copyright notice at the bottom of the page
 /<\/body>/c\
-<!-- COPYRIGHT - 4 lines long -->\
+<!-- COPYRIGHT - 7 lines long -->\
+<br>\
+<p class="copy">\
 <small>\
 <em>This site Copyright &copy; 2015-2017 Scott Bennett.</em><br>\
 </small>\
+</p>\
 </body>
