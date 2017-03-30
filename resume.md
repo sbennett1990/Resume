@@ -14,24 +14,26 @@ Professional Experience
 June 2014 - Present | Charlotte, NC  
 
 - Agile environment
-- Developed applications (plugins) for AutoCAD (deployed to ~100 user machines) (C#)
-    - Designed and implemented an updater utility for the AutoCAD plugins, which was also
-      able to update itself
-    - Created unit tests for above
-- Lead my team in our migration to git source control
-    - Configured the repositories
-    - Determined branching/merging model
-    - Created training sessions for the developers
-- Implemented enhancements and bug fixes to internal web applications (Java/WebSphere)
-    - SQL tuning, HTML corrections, JavaScript corrections, other code corrections
-- Instrumental in creating a continuous delivery pipeline for one of our Java/WebSphere
-  applications
-    - Worked heavily with our automation team to create and test deployments to mainframe
-      (my team was the first to automate deployments to our mainframe environment)
-    - Created build scripts in Ant
-    - Helped convert two Java applications into Maven projects to better facilitate
-      builds and dependency management
-    - Created, configured, and maintained all of the Jenkins build jobs for our team
+- Responsible for developing applications primarily for AutoCAD in C#
+- Designed and implemented an AutoCAD plugin updater utility, which enabled the
+  100+ AutoCAD users to recieve notificatoins for new releases and allowed them
+  to apply updates themselves, instead of having to wait on IT
+- Implemented and enabled continuous integration/continuous delivery pipelines
+  for 15 of my team's Java and C# applications
+    - Created and maintained all Jenkins build jobs for my team, using
+      Groovy/DSL scripts
+    - Configured build scripts and build frameworks (Maven, PowerShell, Unix
+      Shell)
+    - Configured package managers (NuGet, Maven)
+- Led my team in our migration to git as primary SCM
+    - Configured repositories (Atlassian BitBucket)
+    - Implemented branching and merging strategy
+    - Created training sessions and materials for developers
+- Team SME on automation - Jenkins, Maven, applications deployments
+- Maintained and developed new features for internal web applications
+  (Java/WebSphere, C#)
+    - SQL tuning; HTML, CSS, JavaScript, corrections; Other code quality
+      improvements
 
 **Assistant Technology Support Analyst** - [Appalachian State University Library][applib]  
 January 2012 - May 2014 | Boone, NC  
