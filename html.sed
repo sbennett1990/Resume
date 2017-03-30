@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="style/style.css">
 # change the title
 /<title>/c\
-<title>Scott Bennett</title>
+<title>Resume of Scott Bennett</title>
 # add copyright notice at the bottom of the page
 /<\/body>/c\
 <!-- COPYRIGHT - 7 lines long -->\
