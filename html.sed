@@ -5,9 +5,10 @@
 # change the title
 /<title>/c\
 <title>Scott Bennett</title>
-# add copyright notice
+# add copyright notice at the bottom of the page
 /<\/body>/c\
-<small>
-<em>This site Copyright &copy; 2015-2017 Scott Bennett.</em><br>
-</small>
+<!-- COPYRIGHT - 4 lines long -->\
+<small>\
+<em>This site Copyright &copy; 2015-2017 Scott Bennett.</em><br>\
+</small>\
 </body>
