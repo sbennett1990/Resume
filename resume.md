@@ -1,11 +1,12 @@
-Scott Bennett
-=============
-> Charlotte, NC, USA  
-> Email: scottb () fastmail ! com  
-> [GitHub][]: https://github.com/sbennett1990  
-> [LinkedIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa  
+# Scott Bennett  
 
-________________________
+__________________________________________
+|                               |         |
+--------------------------------|--------:|
+Charlotte, NC, USA              | [GitHub][]: https://github.com/sbennett1990
+Email: scottb () fastmail ! com | [LinkedIn][]: https://www.linkedin.com/in/scott-bennett-73b832aa
+
+_______________________
 
 Professional Experience
 -----------------------
