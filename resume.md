@@ -16,7 +16,7 @@ June 2014 - Present | Charlotte, NC
 - Agile environment
 - Responsible for developing applications primarily for AutoCAD in C#
 - Designed and implemented an AutoCAD plugin updater utility, which enabled the
-  100+ AutoCAD users to recieve notificatoins for new releases and allowed them
+  100+ AutoCAD users to receive notifications for new releases and allowed them
   to apply updates themselves, instead of having to wait on IT
 - Implemented and enabled continuous integration/continuous delivery pipelines
   for 15 of my team's Java and C# applications
