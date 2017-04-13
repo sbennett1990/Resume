@@ -63,13 +63,13 @@ Technical Skills and Competences
 
 **Programming Languages and Software Development Skills**  
 
-- C# - 2 years
-- Java - 4 years
-- C - 3 years (school and personal projects)
-- NUnit
-- SQL
-- PowerShell
-- Shell scripting
+|                                            |               |
+---------------------------------------------|----------------
+C# - 2 years                                 | PowerShell
+Java - 4 years                               | Shell scripting
+C - 3 years (school and personal projects)   | Git
+NUnit                                        | Atlassian Suite
+SQL                                          | AutoCAD API
 
 **Other Computer Related Skills**  
 
