@@ -17,6 +17,10 @@ resume.pdf: html
         --margin-left 15 --margin-right 15 \
         - $@
 
+groff: resume.groff.pdf
+resume.groff.pdf: resume.groff.mom
+	pdfmom resume.groff.mom > $@
+
 docx: resume.docx
 resume.docx: resume.md
 	pandoc -s -S resume.md -o $@
