@@ -33,7 +33,8 @@ Implemented and enabled continuous integration/continuous delivery pipelines
 for 15 of my team’s Java and C# applications
 .LIST BULLET
 .ITEM
-Created and maintained all Jenkins build jobs for my team, using Groovy/DSL scripts
+Created and maintained all Jenkins build jobs for my team, using Groovy/DSL
+scripts
 .ITEM
 Configured build scripts and build frameworks (Maven, PowerShell, Unix Shell)
 .ITEM
@@ -52,7 +53,8 @@ Created training sessions and materials for developers
 .ITEM
 Team SME on automation - Jenkins, Maven, applications deployments
 .ITEM
-Maintained and developed new features for internal web applications (Java/WebSphere, C#)
+Maintained and developed new features for internal web applications
+(Java/WebSphere, C#)
 .LITE BULLET
 .ITEM
 SQL tuning; HTML, CSS, JavaScript, corrections; Other code quality improvements
