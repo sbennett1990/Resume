@@ -1,0 +1,64 @@
+.\" Copyright (C) 2017 Scott Bennett
+.TITLE	"Scott Bennett"
+.SUBTITLE	"Asheville, NC, USA" "Email: " "GitHub: github.com" "LinkedIn: linkedin.com"
+.AUTHOR	"Scott Bennett"
+.DRAFT	0
+.REVISION	1
+.\"
+.PDF_TITLE	"ScottBennettResume"
+.\"
+.PRINTSTYLE	TYPESET
+.DOCTYPE	DEFAULT
+.COPYSTYLE	DRAFT
+.\"
+.START
+.\" Horizontal Rule
+.DRH
+.\" Jobs come first
+.HEADING 1 Professional Experience
+.\" Lowe's
+Software Developer - Lowe's Companies, Inc.
+June 2014 - June 2017 | Charlotte, NC
+.LIST BULLET
+.ITEM
+Agile environment
+.ITEM
+Responsible for developing applications primarily for AutoCAD in C#
+.ITEM
+Designed and implemented an AutoCAD plugin updater utility, which enabled the
+100+ AutoCAD users to receive notifications for new releases and allowed them
+to apply updates themselves, instead of having to wait on IT
+.ITEM
+Implemented and enabled continuous integration/continuous delivery pipelines
+for 15 of my team’s Java and C# applications
+.LIST BULLET
+.ITEM
+Created and maintained all Jenkins build jobs for my team, using Groovy/DSL scripts
+.ITEM
+Configured build scripts and build frameworks (Maven, PowerShell, Unix Shell)
+.ITEM
+Configured package managers (NuGet, Maven)
+.LIST OFF
+.ITEM
+Led my team in our migration to git as primary SCM
+.LIST BULLET
+.ITEM
+Configured repositories (Atlassian BitBucket)
+.ITEM
+Implemented branching and merging strategy
+.ITEM
+Created training sessions and materials for developers
+.LIST OFF
+.ITEM
+Team SME on automation - Jenkins, Maven, applications deployments
+.ITEM
+Maintained and developed new features for internal web applications (Java/WebSphere, C#)
+.LITE BULLET
+.ITEM
+SQL tuning; HTML, CSS, JavaScript, corrections; Other code quality improvements
+.LIST OFF
+.LIST OFF
+
+
+.DRH
+This document is available in various formats:
