@@ -1,8 +1,8 @@
 .\" Copyright (C) 2017 Scott Bennett
-.TITLE	"Scott Bennett"
+.TITLE		"Scott Bennett"
 .SUBTITLE	"Asheville, NC, USA" "Email: " "GitHub: github.com" "LinkedIn: linkedin.com"
-.AUTHOR	"Scott Bennett"
-.DRAFT	0
+.AUTHOR		"Scott Bennett"
+.DRAFT		0
 .REVISION	1
 .\"
 .PDF_TITLE	"ScottBennettResume"
