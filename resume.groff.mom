@@ -1,4 +1,7 @@
-.\" Copyright (C) 2017 Scott Bennett
+.\"
+.\" Copyright (c) 2017 Scott Bennett
+.\" All rights reserved.
+.\"
 .TITLE		"Scott Bennett"
 .SUBTITLE	"Asheville, NC, USA" "Email: " "GitHub: github.com" "LinkedIn: linkedin.com"
 .AUTHOR		"Scott Bennett"
@@ -14,9 +17,10 @@
 .START
 .\" Horizontal Rule
 .DRH
-.\" Jobs come first
 .HEADING 1 Professional Experience
+.\"
 .\" Lowe's
+.\"
 Software Developer - Lowe's Companies, Inc.
 June 2014 - June 2017 | Charlotte, NC
 .LIST BULLET
@@ -60,7 +64,9 @@ Maintained and developed new features for internal web applications
 SQL tuning; HTML, CSS, JavaScript, corrections; Other code quality improvements
 .LIST OFF
 .LIST OFF
+.\"
 .\" App State Library
+.\"
 .\" TODO
 .HEADING 1 Technical Skills and Competences
 .\" TODO
