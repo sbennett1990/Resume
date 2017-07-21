@@ -95,9 +95,16 @@ and software) and peripherals
 Provided help desk support
 .LIST OFF
 .HEADING 1 Technical Skills and Competences
+.HEADING 3 Programming Languages and Software Development Skills
+.\" TODO
+.HEADING 3 Other Computer Related Skills
 .\" TODO
 .HEADING 1 Honors and Awards
-.\" TODO
+.PP
+.PDF_WWW_LINK http://www.lowes.com/ "Lowe's IT"
+Top Individual Contributor Award
+.BR
+2016
 .HEADING 1 Education
 .\" TODO
 .DRH
