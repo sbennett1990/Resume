@@ -68,10 +68,8 @@ a {
     color: #40657E;
 }
 a:hover, a:active {
-    background-color: #7285A5;
-    color: #FFFFFF;
+    color: #A65136;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
 }
 
 /* Horizontal separators */
