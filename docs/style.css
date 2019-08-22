@@ -88,5 +88,7 @@ code {
 
 /* Copyright notice */
 footer.copyright {
+    font-size: small;
+    font-style: italic;
     text-align: center;
 }
