@@ -47,6 +47,9 @@ h2:hover {
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
+h3 {
+    color: #40657E;
+}
 
 /* Definitions */
 dt {
