@@ -1,7 +1,6 @@
 # Resume
 My professional resume.
 
-- [Markdown](./resume.md)
 - [HTML](http://sbennett1990.github.io/Resume/)
 - [PDF](http://sbennett1990.github.io/Resume/resume.pdf)
 - [DOCX](http://sbennett1990.github.io/Resume/resume.docx)
