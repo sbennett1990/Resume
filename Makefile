@@ -13,8 +13,10 @@ pdf: resume.pdf
 resume.pdf: html
 	sed -f pdf.sed resume.html | wkhtmltopdf \
         --no-pdf-compression \
-        --margin-top 15 --margin-bottom 0 \
-        --margin-left 15 --margin-right 15 \
+        --margin-top 15 \
+        --margin-bottom 0 \
+        --margin-left 15 \
+        --margin-right 15 \
         - $@
 
 docx: resume.docx
