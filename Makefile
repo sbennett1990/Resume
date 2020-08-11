@@ -1,6 +1,8 @@
 # Makefile for generating different formats of my resume
 
-ST =	./style
+DOCS=	docs
+HTML=	${DOCS}/index.html
+STYLE=	${DOCS}/style.css
 
 #all: html pdf docx txt
 
