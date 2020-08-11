@@ -11,8 +11,8 @@ index.html: ${HTML}
 	sed -i -f html.sed ${DOCS}/$@
 
 pdf: resume.pdf
-resume.pdf: html
-	sed -f pdf.sed resume.html | wkhtmltopdf \
+resume.pdf: ${HTML}
+	cat ${HTML} | wkhtmltopdf \
         --no-pdf-compression \
         --user-style-sheet ${DOCS}/pdf.css \
         --disable-external-links \
