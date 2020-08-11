@@ -1,0 +1,12 @@
+/*
+ * Copyright 2020 Scott Bennett
+ *
+ * ISC
+ */
+
+@import url("style.css");
+
+/* Override link styling */
+a:link, a:visited {
+    color: #000000;
+}
