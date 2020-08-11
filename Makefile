@@ -10,8 +10,8 @@ html: index.html
 index.html: ${HTML}
 	sed -i -f html.sed ${DOCS}/$@
 
-pdf: resume.pdf
-resume.pdf: ${HTML}
+pdf: ScottBennett_Resume.pdf
+ScottBennett_Resume.pdf: ${HTML}
 	cat ${HTML} | wkhtmltopdf \
         --no-pdf-compression \
         --user-style-sheet ${DOCS}/pdf.css \
