@@ -3,7 +3,6 @@ My professional resume.
 
 - [HTML](http://sbennett1990.github.io/Resume/)
 - [PDF](http://sbennett1990.github.io/Resume/ScottBennett_Resume.pdf)
-- [DOCX](http://sbennett1990.github.io/Resume/resume.docx)
 
 ## DISCLAIMER
 Copyright (c) 2015-2020, Scott Bennett  
