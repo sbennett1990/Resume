@@ -9,6 +9,5 @@
 /COPYRIGHT/{N;N;N;N;N;N;d;}
 #
 # insert some space to help out the pdf-ifier
-/<h2>Technical Skills and Competences<\/h2>/ i\
-<p><br><br></p>\
-
+#/<h2>Technical Skills and Competences<\/h2>/ i\
+#<p><br><br></p>\
