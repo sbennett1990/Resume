@@ -2,7 +2,7 @@
 My professional resume.
 
 - [HTML](http://sbennett1990.github.io/Resume/)
-- [PDF](http://sbennett1990.github.io/Resume/resume.pdf)
+- [PDF](http://sbennett1990.github.io/Resume/ScottBennett_Resume.pdf)
 - [DOCX](http://sbennett1990.github.io/Resume/resume.docx)
 
 ## DISCLAIMER
