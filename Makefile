@@ -6,10 +6,9 @@ STYLE=	${DOCS}/style.css
 
 #all: html pdf docx txt
 
-html: resume.html
-resume.html: $(ST)/style.css resume.md
-	lowdown -s -o $@ resume.md
-	sed -i -f html.sed $@
+html: index.html
+index.html: ${HTML}
+	sed -i -f html.sed ${DOCS}/$@
 
 pdf: resume.pdf
 resume.pdf: html
