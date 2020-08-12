@@ -95,3 +95,12 @@ footer.copyright {
     font-style: italic;
     text-align: center;
 }
+
+/* Text sizes */
+.bigger {
+    font-size: larger;
+}
+
+.medium {
+    font-size: medium;
+}
