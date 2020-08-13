@@ -16,7 +16,6 @@ ScottBennett_Resume.pdf: ${HTML}
         --no-pdf-compression \
         --user-style-sheet ${DOCS}/pdf.css \
         --disable-external-links \
-        --margin-top 5 \
         --margin-bottom 15 \
         --margin-left 15 \
         --margin-right 15 \
