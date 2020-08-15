@@ -109,3 +109,7 @@ footer.copyright {
 .hidden {
     display: none;
 }
+
+.gap {
+    margin-top: 4cm;
+}
