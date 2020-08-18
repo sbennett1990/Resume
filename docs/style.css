@@ -51,6 +51,18 @@ h3 {
     color: #40657E;
 }
 
+/* Dark mode */
+body.dark-mode {
+    background: #2f3136;
+    color: #c0c0c0;
+}
+h1.dark-mode {
+    color: #94a4b1;
+}
+h2.dark-mode, h3.dark-mode, a.dark-mode {
+    color: #8aa2d3;
+}
+
 /* Definitions */
 dt {
     float: left;
