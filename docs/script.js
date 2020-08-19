@@ -1,9 +1,10 @@
 const darkmode = "dark-mode";
+const tags = [ "h1", "h2", "h3", "a" ];
 
-function toggleHs(h) {
-	let hs = document.getElementsByTagName(h);
-	for (let i = 0; i < hs.length; i++) {
-		hs[i].classList.toggle(darkmode);
+function toggleTags(tagName) {
+	let ts = document.getElementsByTagName(tagName);
+	for (let i = 0; i < ts.length; i++) {
+		ts[i].classList.toggle(darkmode);
 	}
 }
 
@@ -13,8 +14,7 @@ function toggleHs(h) {
 function toggleDarkMode() {
 	let element = document.body;
 	element.classList.toggle(darkmode);
-	toggleHs("h1");
-	toggleHs("h2");
-	toggleHs("h3");
-	toggleHs("a");
+	for (let i = 0; i < tags.length; i++) {
+		toggleTags(tags[i]);
+	}
 }
