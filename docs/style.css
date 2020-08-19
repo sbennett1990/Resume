@@ -125,3 +125,15 @@ footer.copyright {
 .gap {
     margin-top: 4cm;
 }
+
+button {
+    float: right;
+    border: none;
+    padding: 11px 17px;
+    background-color: #2f3136;
+    color: #e0e0e0;
+    text-align: center;
+}
+button.dark-mode {
+    background-color: #4e5b79;
+}
