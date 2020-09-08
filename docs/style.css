@@ -128,12 +128,13 @@ footer.copyright {
 
 button {
     float: right;
-    border: none;
+    border: 2px solid #40657E;
     padding: 11px 17px;
     background-color: #2f3136;
     color: #e0e0e0;
     text-align: center;
 }
 button.dark-mode {
+    border: 2px solid #e0e0e0;
     background-color: #4e5b79;
 }
